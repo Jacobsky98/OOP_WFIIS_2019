@@ -1,0 +1,26 @@
+Działania na bitach:
+
+data - kontener przechowujący bity (liczba bez znaku)
+npos - numer bitu którym chcemy manipulować
+
+--------------------------------
+* Ustawienie calego bajtu na 1 (11111111):
+	   
+	   data = 0xFF;
+
+--------------------------------
+* Ustawienie bitu npos na 1 (true): 
+
+       data |= 1 << npos;
+       
+--------------------------------       
+* Ustawienie bitu npos na 0 (false): 
+
+       data &= ~(1 << npos);
+       
+--------------------------------       
+* Sprawdzanie bitu npos: 
+
+       bool res = static_cast<bool>( data & (1 << npos) );
+       
+--------------------------------

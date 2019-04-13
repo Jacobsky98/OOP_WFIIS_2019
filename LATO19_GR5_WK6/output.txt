@@ -1,0 +1,19 @@
+./pojazdy
+Przykladowa predkosc maksymalna = 140km/h
+ok ptr
+Typ pojazdu: Samochod
+null ptr
+Typ pojazdu: Motorowka
+ok ptr
+Typ pojazdu: Rower
+--------
+ok ptr
+Typ pojazdu: Amfibia
+ok ptr
+Typ pojazdu: Amfibia
+null ptr
+Pojazd nierozpoznany.
+Na ladzie: v_max = 80km/h
+W wodzie: v_max = 40km/h
+Na ladzie: v_max = 80km/h
+W wodzie: v_max = 40km/h

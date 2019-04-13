@@ -1,0 +1,17 @@
+./stest
+Kwadrat o boku: 4
+Trojkat o bokach: 3 2 4
+Kolo o promieniu: 3
+Kwadrat o boku: 7
+Kolo o promieniu: 7
+Kwadrat o boku: 4
+ - pole = 16
+Kwadrat o boku: 4
+ - pole = 16
+Kolo o promieniu: 3
+ - pole = 28.2735
+Trojkat o bokach: 3 2 4
+ - pole = 2.90474
+Kolo o promieniu: 3
+ - pole = 28.2735
+Calkowite pole = 91.4517

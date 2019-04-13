@@ -1,0 +1,28 @@
+g++ -Wall -g  Instalator.o -o ftest
+./ftest
+Rozpoczynamy dzialanie maszyny stanow!
+Program mozna uruchomic na nastepujacych systemach: 
+   1. Windows
+   2. OS X
+   3. Linux
+
+Po pierwszej inkrementacji: 
+m = DostepneSystemy >ZbieranieDanych< Podsumowanie 
+Prosze podac dana: Adres email = ?, podano 'Nowak@mail.com'
+
+Po drugiej inkrementacji: 
+m = DostepneSystemy ZbieranieDanych >Podsumowanie< 
+Podsumowanie: 
+ * Adres email = Nowak@mail.com
+
+Po pierwszej dekrementacji: 
+m = DostepneSystemy >ZbieranieDanych< Podsumowanie 
+Prosze podac dana: Adres email = ?, podano 'Nowak@mail.com'
+
+Podsumowanie: 
+ * Adres email = Nowak@mail.com
+
+Na koncu: 
+m = DostepneSystemy ZbieranieDanych Podsumowanie >Instalacja< 
+Instalacja w toku... 
+OK!

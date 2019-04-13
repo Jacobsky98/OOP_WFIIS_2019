@@ -1,0 +1,11 @@
+./vtest
+[35m************************************************************[0m
+[1m[32m                      ADAM MICKIEWICZ
+************************************************************[0m
+[90m     --------------------------------------------------[0m
+[0m[97m        Litwo, Ojczyzno moja! Ty jestes jak zdrowie:
+[0m[97m         Ile Cie trzeba cenic, ten tylko sie dowie,
+[90m     --------------------------------------------------[0m
+[0m[31m     Kto Cie stracil. Dzis pieknosc Twa w calej ozdobie
+[0m[31m           Widze i opisuje, bo tesknie po Tobie.
+[90m     --------------------------------------------------[0m
