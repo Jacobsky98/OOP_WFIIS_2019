@@ -1,0 +1,12 @@
+./test
+Zaczynamy obliczenia.
+Rozpoczynamy poziom numer 1.
+Rozpoczynamy poziom numer 2.
+Najglebszy poziom.
+Konczymy poziom numer 2.
+Konczymy poziom numer 1.
+ Zlapano wyjatek:
+ -- z powodu: Wyjatek w Obliczenia::Start(), [plik = main.cpp, linia = 30]
+ -- z powodu: Wyjatek w Obliczenia::Poziom_1(), [plik = main.cpp, linia = 39]
+ -- z powodu: Wyjatek w Obliczenia::Poziom_2(), [plik = main.cpp, linia = 48]
+ -- z powodu: Pojawil sie problem na najglebszym poziomie!
